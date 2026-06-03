@@ -47,8 +47,8 @@
           "Athlete1": "Haile GEBRSELASSIE",
           "10000": "26:30.03",
           "Athlete2": "Nicholas KEMBOI",
-          "half mara": "57:49",
-          "Athlete3": "Rhonex KIPRUTO",
+          "half mara": "57:50",
+          "Athlete3": "Selemon BAREGA",
           "marathon": "2:01:09",
           "Athlete4": "Eliud KIPCHOGE"
         },
@@ -57,8 +57,8 @@
           "Athlete1": "Daniel KOMEN",
           "10000": "26:30.74",
           "Athlete2": "Abebe DINKESA",
-          "half mara": "57:50",
-          "Athlete3": "Selemon BAREGA",
+          "half mara": "57:59",
+          "Athlete3": "Alexander MUNYAO",
           "marathon": "2:01:39",
           "Athlete4": "Amos KIPRUTO"
         },
@@ -67,8 +67,8 @@
           "Athlete1": "Berihu AREGAWI",
           "10000": "26:31.01",
           "Athlete2": "Yomif KEJELCHA",
-          "half mara": "57:59",
-          "Athlete3": "Alexander MUNYAO",
+          "half mara": "58:01",
+          "Athlete3": "Geoffrey KAMWOROR",
           "marathon": "2:01:41",
           "Athlete4": "Kenenisa BEKELE"
         },
@@ -77,8 +77,8 @@
           "Athlete1": "Jacob KIPLIMO",
           "10000": "26:31.13",
           "Athlete2": "Berihu AREGAWI",
-          "half mara": "58:01",
-          "Athlete3": "Geoffrey KAMWOROR",
+          "half mara": "58:05",
+          "Athlete3": "Sabastian Kimaru SAWE",
           "marathon": "2:01:48",
           "Athlete4": "Sisay LEMMA"
         },
@@ -87,8 +87,8 @@
           "Athlete1": "Telahun Haile BEKELE",
           "10000": "26:33.84",
           "Athlete2": "Grant FISHER",
-          "half mara": "58:05",
-          "Athlete3": "Sabastian Kimaru SAWE",
+          "half mara": "58:07",
+          "Athlete3": "Abel KIPCHUMBA",
           "marathon": "2:02:16",
           "Athlete4": "Benson KIPRUTO"
         },
@@ -97,8 +97,8 @@
           "Athlete1": "Selemon BAREGA",
           "10000": "26:33.93",
           "Athlete2": "Jacob KIPLIMO",
-          "half mara": "58:07",
-          "Athlete3": "Abel KIPCHUMBA",
+          "half mara": "58:08",
+          "Athlete3": "Nicholas KIPKORIR",
           "marathon": "2:02:24",
           "Athlete4": "John KORIR"
         }
@@ -621,8 +621,8 @@
     "men": {
       "world": [
         {
-          "5000": "12:36.73",
-          "Athlete1": "Hagos GEBRHIWET",
+          "5000": "12:43.66",
+          "Athlete1": "Berihu AREGAWI",
           "10000": "26:31.01",
           "Athlete2": "Yomif KEJELCHA",
           "half mara": "56:42",
@@ -631,8 +631,8 @@
           "Athlete4": "Sabastian Kimaru SAWE"
         },
         {
-          "5000": "12:38.95",
-          "Athlete1": "Yomif KEJELCHA",
+          "5000": "12:44.09",
+          "Athlete1": "Grant FISHER",
           "10000": "26:31.13",
           "Athlete2": "Berihu AREGAWI",
           "half mara": "57:30",
@@ -641,8 +641,8 @@
           "Athlete4": "Yomif KEJELCHA"
         },
         {
-          "5000": "12:40.96",
-          "Athlete1": "Jacob KIPLIMO",
+          "5000": "12:44.25",
+          "Athlete1": "Hagos GEBRHIWET",
           "10000": "26:34.93",
           "Athlete2": "Selemon BAREGA",
           "half mara": "58:05",
@@ -651,8 +651,8 @@
           "Athlete4": "Jacob KIPLIMO"
         },
         {
-          "5000": "12:43.66",
-          "Athlete1": "Berihu AREGAWI",
+          "5000": "12:44.27",
+          "Athlete1": "Andreas ALMGREN",
           "10000": "26:37.93",
           "Athlete2": "Biniam MEHARY",
           "half mara": "58:05",
@@ -661,8 +661,8 @@
           "Athlete4": "Amos KIPRUTO"
         },
         {
-          "5000": "12:44.09",
-          "Athlete1": "Grant FISHER",
+          "5000": "12:45.27",
+          "Athlete1": "Nico YOUNG",
           "10000": "26:42.65",
           "Athlete2": "Gemechu DIDA",
           "half mara": "58:08",
@@ -671,8 +671,8 @@
           "Athlete4": "John KORIR"
         },
         {
-          "5000": "12:44.27",
-          "Athlete1": "Andreas ALMGREN",
+          "5000": "12:45.63",
+          "Athlete1": "Telahun Haile BEKELE",
           "10000": "26:43.14",
           "Athlete2": "Joshua CHEPTEGEI",
           "half mara": "58:10",
@@ -681,8 +681,8 @@
           "Athlete4": "Deresa GELETA"
         },
         {
-          "5000": "12:45.27",
-          "Athlete1": "Nico YOUNG",
+          "5000": "12:45.93",
+          "Athlete1": "Biniam MEHARY",
           "10000": "26:43.46",
           "Athlete2": "Grant FISHER",
           "half mara": "58:14",
@@ -691,8 +691,8 @@
           "Athlete4": "Tamirat TOLA"
         },
         {
-          "5000": "12:45.63",
-          "Athlete1": "Telahun Haile BEKELE",
+          "5000": "12:46.41",
+          "Athlete1": "Kuma GIRMA",
           "10000": "26:43.79",
           "Athlete2": "Mohammed AHMED",
           "half mara": "58:16",
@@ -701,8 +701,8 @@
           "Athlete4": "Milkesa MENGESHA"
         },
         {
-          "5000": "12:45.93",
-          "Athlete1": "Biniam MEHARY",
+          "5000": "12:46.59",
+          "Athlete1": "George MILLS",
           "10000": "26:46.35",
           "Athlete2": "Edwin KURGAT",
           "half mara": "58:17",
@@ -711,8 +711,8 @@
           "Athlete4": "Cybrian KOTUT"
         },
         {
-          "5000": "12:46.41",
-          "Athlete1": "Kuma GIRMA",
+          "5000": "12:47.67",
+          "Athlete1": "Thierry NDIKUMWENAYO",
           "10000": "26:46.39",
           "Athlete2": "Jacob KIPLIMO",
           "half mara": "58:23",
