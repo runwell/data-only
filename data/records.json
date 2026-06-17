@@ -493,8 +493,8 @@
           "Athlete4": "Amy CRAGG"
         },
         {
-          "5000": "14:42.64",
-          "Athlete1": "Molly HUDDLE",
+          "5000": "14:39.88",
+          "Athlete1": "Parker VALBY",
           "10000": "30:48.69",
           "Athlete2": "Natosha ROGERS",
           "half mara": "1:07:34",
@@ -503,8 +503,8 @@
           "Athlete4": "Susanna SULLIVAN"
         },
         {
-          "5000": "14:44.79",
-          "Athlete1": "Jane HEDENGREN",
+          "5000": "14:42.64",
+          "Athlete1": "Molly HUDDLE",
           "10000": "30:49.57",
           "Athlete2": "Emily SISSON",
           "half mara": "1:07:35",
@@ -565,8 +565,8 @@
           "Athlete4": "高桥尚子"
         },
         {
-          "5000": "15:02.48",
-          "Athlete1": "木村友香",
+          "5000": "14:59.89",
+          "Athlete1": "山本有真",
           "10000": "30:53.31",
           "Athlete2": "五岛莉乃",
           "half mara": "1:08:03",
@@ -575,8 +575,8 @@
           "Athlete4": "矢田美久"
         },
         {
-          "5000": "15:03.67",
-          "Athlete1": "弘山晴美",
+          "5000": "15:02.48",
+          "Athlete1": "木村友香",
           "10000": "30:54.40",
           "Athlete2": "田中希实",
           "half mara": "1:08:11",
@@ -585,8 +585,8 @@
           "Athlete4": "一山麻绪"
         },
         {
-          "5000": "15:06.07",
-          "Athlete1": "赤羽有纪子",
+          "5000": "15:03.67",
+          "Athlete1": "弘山晴美",
           "10000": "30:57.26",
           "Athlete2": "高岛由香",
           "half mara": "1:08:13",
@@ -595,8 +595,8 @@
           "Athlete4": "细田爱"
         },
         {
-          "5000": "15:06.66",
-          "Athlete1": "一山麻绪",
+          "5000": "15:06.07",
+          "Athlete1": "赤羽有纪子",
           "10000": "30:57.67",
           "Athlete2": "小海遥",
           "half mara": "1:08:21",
@@ -605,8 +605,8 @@
           "Athlete4": "松田瑞生"
         },
         {
-          "5000": "15:06.98",
-          "Athlete1": "水本佳菜",
+          "5000": "15:06.66",
+          "Athlete1": "一山麻绪",
           "10000": "31:03.14",
           "Athlete2": "桦泽和佳奈",
           "half mara": "1:08:25",
@@ -623,8 +623,8 @@
         {
           "5000": "12:43.66",
           "Athlete1": "Berihu AREGAWI",
-          "10000": "26:31.01",
-          "Athlete2": "Yomif KEJELCHA",
+          "10000": "26:43.14",
+          "Athlete2": "Joshua CHEPTEGEI",
           "half mara": "56:42",
           "Athlete3": "Jacob KIPLIMO",
           "marathon": "1:59:30",
@@ -633,7 +633,7 @@
         {
           "5000": "12:44.09",
           "Athlete1": "Grant FISHER",
-          "10000": "26:31.13",
+          "10000": "26:43.44",
           "Athlete2": "Berihu AREGAWI",
           "half mara": "57:30",
           "Athlete3": "Yomif KEJELCHA",
@@ -643,8 +643,8 @@
         {
           "5000": "12:44.25",
           "Athlete1": "Hagos GEBRHIWET",
-          "10000": "26:34.93",
-          "Athlete2": "Selemon BAREGA",
+          "10000": "26:43.46",
+          "Athlete2": "Grant FISHER",
           "half mara": "58:05",
           "Athlete3": "Sabastian Kimaru SAWE",
           "marathon": "2:00:28",
@@ -653,8 +653,8 @@
         {
           "5000": "12:44.27",
           "Athlete1": "Andreas ALMGREN",
-          "10000": "26:37.93",
-          "Athlete2": "Biniam MEHARY",
+          "10000": "26:43.79",
+          "Athlete2": "Mohammed AHMED",
           "half mara": "58:05",
           "Athlete3": "Hagos GEBRHIWET",
           "marathon": "2:01:39",
@@ -663,8 +663,8 @@
         {
           "5000": "12:45.27",
           "Athlete1": "Nico YOUNG",
-          "10000": "26:42.65",
-          "Athlete2": "Gemechu DIDA",
+          "10000": "26:43.82",
+          "Athlete2": "Biniam MEHARY",
           "half mara": "58:08",
           "Athlete3": "Nicholas KIPKORIR",
           "marathon": "2:02:24",
@@ -673,8 +673,8 @@
         {
           "5000": "12:45.63",
           "Athlete1": "Telahun Haile BEKELE",
-          "10000": "26:43.14",
-          "Athlete2": "Joshua CHEPTEGEI",
+          "10000": "26:44.02",
+          "Athlete2": "Yomif KEJELCHA",
           "half mara": "58:10",
           "Athlete3": "Isaia Kipkoech LASOI",
           "marathon": "2:02:38",
@@ -683,8 +683,8 @@
         {
           "5000": "12:45.93",
           "Athlete1": "Biniam MEHARY",
-          "10000": "26:43.46",
-          "Athlete2": "Grant FISHER",
+          "10000": "26:44.13",
+          "Athlete2": "Selemon BAREGA",
           "half mara": "58:14",
           "Athlete3": "Geoffrey KAMWOROR",
           "marathon": "2:02:59",
@@ -693,8 +693,8 @@
         {
           "5000": "12:46.41",
           "Athlete1": "Kuma GIRMA",
-          "10000": "26:43.79",
-          "Athlete2": "Mohammed AHMED",
+          "10000": "26:46.35",
+          "Athlete2": "Edwin KURGAT",
           "half mara": "58:16",
           "Athlete3": "Rodrigue KWIZERA",
           "marathon": "2:03:17",
@@ -703,8 +703,8 @@
         {
           "5000": "12:46.59",
           "Athlete1": "George MILLS",
-          "10000": "26:46.35",
-          "Athlete2": "Edwin KURGAT",
+          "10000": "26:46.39",
+          "Athlete2": "Jacob KIPLIMO",
           "half mara": "58:17",
           "Athlete3": "Daniel MATEIKO",
           "marathon": "2:03:22",
@@ -713,8 +713,8 @@
         {
           "5000": "12:47.62",
           "Athlete1": "Addisu YIHUNE",
-          "10000": "26:46.39",
-          "Athlete2": "Jacob KIPLIMO",
+          "10000": "26:47.72",
+          "Athlete2": "Ishmael Rokitto KIPKURUI",
           "half mara": "58:23",
           "Athlete3": "Birhanu BALEW",
           "marathon": "2:03:23",
@@ -931,8 +931,8 @@
         {
           "5000": "13:58.06",
           "Athlete1": "Beatrice CHEBET",
-          "10000": "29:47.71",
-          "Athlete2": "Fotyen TESFAY",
+          "10000": "30:27.02",
+          "Athlete2": "Janeth CHEPNGETICH",
           "half mara": "1:03:04",
           "Athlete3": "Agnes Jebet NGETICH",
           "marathon": "2:09:56",
@@ -941,8 +941,8 @@
         {
           "5000": "14:01.29",
           "Athlete1": "Agnes Jebet NGETICH",
-          "10000": "29:49.33",
-          "Athlete2": "Tsigie GEBRESELAMA",
+          "10000": "30:27.38",
+          "Athlete2": "Agnes Jebet NGETICH",
           "half mara": "1:03:21",
           "Athlete3": "Fotyen TESFAY",
           "marathon": "2:10:51",
@@ -951,8 +951,8 @@
         {
           "5000": "14:04.41",
           "Athlete1": "Gudaf TSEGAY",
-          "10000": "29:50.52",
-          "Athlete2": "Ejgayehu TAYE",
+          "10000": "30:27.52",
+          "Athlete2": "Beatrice CHEBET",
           "half mara": "1:03:32",
           "Athlete3": "Lilian Kasait RENGERUK",
           "marathon": "2:14:00",
@@ -961,8 +961,8 @@
         {
           "5000": "14:18.41",
           "Athlete1": "Likina AMEBAW",
-          "10000": "30:09.05",
-          "Athlete2": "Aynadis MEBRATU",
+          "10000": "30:28.82",
+          "Athlete2": "Yenawa NBRET",
           "half mara": "1:04:01",
           "Athlete3": "Loice CHEMNUNG",
           "marathon": "2:14:29",
@@ -971,8 +971,8 @@
         {
           "5000": "14:18.54",
           "Athlete1": "Aleshign BAWEKE",
-          "10000": "30:27.02",
-          "Athlete2": "Janeth CHEPNGETICH",
+          "10000": "30:32.90",
+          "Athlete2": "Miriam CHEBET",
           "half mara": "1:04:13",
           "Athlete3": "Joyciline JEPKOSGEI",
           "marathon": "2:14:43",
@@ -981,8 +981,8 @@
         {
           "5000": "14:18.94",
           "Athlete1": "Freweyni HAILU",
-          "10000": "30:27.38",
-          "Athlete2": "Agnes Jebet NGETICH",
+          "10000": "30:33.86",
+          "Athlete2": "Chaltu DIDA",
           "half mara": "1:04:14",
           "Athlete3": "Ejgayehu TAYE",
           "marathon": "2:14:57",
@@ -991,8 +991,8 @@
         {
           "5000": "14:21.89",
           "Athlete1": "Medina EISA",
-          "10000": "30:27.52",
-          "Athlete2": "Beatrice CHEBET",
+          "10000": "30:34.11",
+          "Athlete2": "Rose DAVIES",
           "half mara": "1:04:21",
           "Athlete3": "Tsigie GEBRESELAMA",
           "marathon": "2:15:41",
@@ -1001,8 +1001,8 @@
         {
           "5000": "14:22.37",
           "Athlete1": "Senayet GETACHEW",
-          "10000": "30:28.82",
-          "Athlete2": "Yenawa NBRET",
+          "10000": "30:36.56",
+          "Athlete2": "Elise CRANNY",
           "half mara": "1:04:44",
           "Athlete3": "Likina AMEBAW",
           "marathon": "2:15:53",
@@ -1011,8 +1011,8 @@
         {
           "5000": "14:22.56",
           "Athlete1": "Hirut MESHESHA",
-          "10000": "30:32.90",
-          "Athlete2": "Miriam CHEBET",
+          "10000": "30:36.67",
+          "Athlete2": "Senayet GETACHEW",
           "half mara": "1:04:49",
           "Athlete3": "Fantaye BELAYNEH",
           "marathon": "2:16:31",
@@ -1021,8 +1021,8 @@
         {
           "5000": "14:23.15",
           "Athlete1": "Nadia BATTOCLETTI",
-          "10000": "30:33.86",
-          "Athlete2": "Chaltu DIDA",
+          "10000": "30:38.23",
+          "Athlete2": "Nadia BATTOCLETTI",
           "half mara": "1:05:00",
           "Athlete3": "Sharon LOKEDI",
           "marathon": "2:16:36",
@@ -1061,8 +1061,8 @@
           "Athlete4": "Erika KEMP"
         },
         {
-          "5000": "14:40.34",
-          "Athlete1": "Elle ST. PIERRE",
+          "5000": "14:39.88",
+          "Athlete1": "Parker VALBY",
           "10000": "30:50.10",
           "Athlete2": "Shelby HOULIHAN",
           "half mara": "1:07:34",
@@ -1071,8 +1071,8 @@
           "Athlete4": "Natosha ROGERS"
         },
         {
-          "5000": "14:40.36",
-          "Athlete1": "Elise CRANNY",
+          "5000": "14:40.34",
+          "Athlete1": "Elle ST. PIERRE",
           "10000": "30:51.99",
           "Athlete2": "Karissa SCHWEIZER",
           "half mara": "1:07:35",
@@ -1081,8 +1081,8 @@
           "Athlete4": "Lindsay FLANAGAN"
         },
         {
-          "5000": "14:44.79",
-          "Athlete1": "Jane HEDENGREN",
+          "5000": "14:40.36",
+          "Athlete1": "Elise CRANNY",
           "10000": "30:58.66",
           "Athlete2": "Taylor ROE",
           "half mara": "1:07:35",
@@ -1091,8 +1091,8 @@
           "Athlete4": "Sara HALL"
         },
         {
-          "5000": "14:45.29",
-          "Athlete1": "Shelby HOULIHAN",
+          "5000": "14:44.79",
+          "Athlete1": "Jane HEDENGREN",
           "10000": "30:59.28",
           "Athlete2": "Parker VALBY",
           "half mara": "1:07:37",
@@ -1101,8 +1101,8 @@
           "Athlete4": "Emma BATES"
         },
         {
-          "5000": "14:45.81",
-          "Athlete1": "Emily MACKAY",
+          "5000": "14:45.29",
+          "Athlete1": "Shelby HOULIHAN",
           "10000": "30:59.38",
           "Athlete2": "Emily INFELD",
           "half mara": "1:07:42",
@@ -1111,8 +1111,8 @@
           "Athlete4": "Annie FRISBIE"
         },
         {
-          "5000": "14:48.41",
-          "Athlete1": "Whittni MORGAN",
+          "5000": "14:45.81",
+          "Athlete1": "Emily MACKAY",
           "10000": "30:59.71",
           "Athlete2": "Jessica MCCLAIN",
           "half mara": "1:07:46",
@@ -1121,8 +1121,8 @@
           "Athlete4": "Dakotah POPEHN"
         },
         {
-          "5000": "14:48.91",
-          "Athlete1": "Bailey HERTENSTEIN",
+          "5000": "14:48.41",
+          "Athlete1": "Whittni MORGAN",
           "10000": "31:20.60",
           "Athlete2": "Grace HARTMAN",
           "half mara": "1:08:21",
@@ -1143,8 +1143,8 @@
           "Athlete4": "矢田美久"
         },
         {
-          "5000": "15:04.11",
-          "Athlete1": "广中璃梨佳",
+          "5000": "14:59.89",
+          "Athlete1": "山本有真",
           "10000": "30:56.32",
           "Athlete2": "广中璃梨佳",
           "half mara": "1:08:21",
@@ -1153,8 +1153,8 @@
           "Athlete4": "细田爱"
         },
         {
-          "5000": "15:06.98",
-          "Athlete1": "水本佳菜",
+          "5000": "15:04.11",
+          "Athlete1": "广中璃梨佳",
           "10000": "31:03.14",
           "Athlete2": "桦泽和佳奈",
           "half mara": "1:08:25",
@@ -1163,8 +1163,8 @@
           "Athlete4": "松田瑞生"
         },
         {
-          "5000": "15:11.01",
-          "Athlete1": "斋藤美羽",
+          "5000": "15:06.98",
+          "Athlete1": "水本佳菜",
           "10000": "31:07.21",
           "Athlete2": "水本佳菜",
           "half mara": "1:08:57",
@@ -1173,8 +1173,8 @@
           "Athlete4": "佐藤早也伽"
         },
         {
-          "5000": "15:12.97",
-          "Athlete1": "山本有真",
+          "5000": "15:11.01",
+          "Athlete1": "斋藤美羽",
           "10000": "31:08.28",
           "Athlete2": "斋藤美羽",
           "half mara": "1:08:58",
@@ -1183,8 +1183,8 @@
           "Athlete4": "小林香菜"
         },
         {
-          "5000": "15:14.18",
-          "Athlete1": "新谷仁美",
+          "5000": "15:14.01",
+          "Athlete1": "Rina KUSU",
           "10000": "31:12.21",
           "Athlete2": "矢田美久",
           "half mara": "1:09:03",
@@ -1193,8 +1193,8 @@
           "Athlete4": "铃木优花"
         },
         {
-          "5000": "15:15.87",
-          "Athlete1": "细田爱",
+          "5000": "15:14.18",
+          "Athlete1": "新谷仁美",
           "10000": "31:18.54",
           "Athlete2": "山崎里彩",
           "half mara": "1:09:09",
@@ -1203,7 +1203,7 @@
           "Athlete4": "上杉真穗"
         },
         {
-          "5000": "15:16.70",
+          "5000": "15:14.29",
           "Athlete1": "伊泽菜菜花",
           "10000": "31:29.48",
           "Athlete2": "五岛莉乃",
@@ -1213,8 +1213,8 @@
           "Athlete4": "加世田梨花"
         },
         {
-          "5000": "15:19.13",
-          "Athlete1": "木村友香",
+          "5000": "15:15.00",
+          "Athlete1": "Momoka KAWAGUCHI",
           "10000": "31:42.28",
           "Athlete2": "菅田雅香",
           "half mara": "1:09:20",
@@ -1223,8 +1223,8 @@
           "Athlete4": "安藤友香"
         },
         {
-          "5000": "15:19.45",
-          "Athlete1": "桦泽和佳奈",
+          "5000": "15:15.24",
+          "Athlete1": "山崎里彩",
           "10000": "31:42.92",
           "Athlete2": "加世田梨花",
           "half mara": "1:09:22",
