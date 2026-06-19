@@ -20,22 +20,22 @@ Arizona,AZ,Buckeye Marathon,Buckeye,212,Downhill,183,816,01/10/2026,52,101.26,10
 Arizona,AZ,Marathon Project (Gold Wave),Chandler,147,Flat,144,144,12/12/2026,53,99.72,99.72
 California,CA,Los Angeles Marathon,Los Angeles,21933,Rolling Hills,943,1169,03/08/2026,61,97.34,98.22
 California,CA,California International Marathon,Sacramento,8178,Downhill,663,1003,12/06/2026,47,100.38,100.38
-California,CA,Rock n Roll San Diego Marathon,San Diego,6657,Mostly Flat,813,1044,05/31/2026,65,96.77,98.59
+California,CA,Rock n Roll San Diego Marathon,San Diego,6657,Mostly Flat,813,1044,06/06/2027,65,96.77,98.59
 California,CA,San Francisco Marathon,San Francisco,6536,Hilly,1299,1299,07/26/2026,60,95.73,96.58
 California,CA,Long Beach Marathon,Long Beach,4722,Mostly Flat,470,462,10/11/2026,69,96.79,98.89
 California,CA,OC Marathon,Costa Mesa,3563,Mostly Flat,559,681,05/02/2027,63,98.55,99.05
-California,CA,Big Sur International Marathon,Carmel,3318,Hilly,1654,1949,04/26/2026,54,97.43,97.43
-California,CA,Mountains 2 Beach Marathon,Ventura,2060,Downhill,536,1260,04/19/2026,60,99.93,100.64
+California,CA,Big Sur International Marathon,Carmel,3318,Hilly,1654,1949,04/25/2027,54,97.43,97.43
+California,CA,Mountains 2 Beach Marathon,Ventura,2060,Downhill,536,1260,04/18/2027,60,99.93,100.64
 California,CA,Surf City Marathon,Huntington Beach,1963,Mostly Flat,371,362,02/07/2027,58,99.15,99.15
 California,CA,Napa Valley Marathon,Napa,1942,Downhill,564,867,03/07/2027,51,99.75,99.75
 California,CA,Santa Rosa Marathon,Santa Rosa,1349,Mostly Flat,416,417,08/23/2026,68,98.47,99.16
-California,CA,Ventura Marathon,Ventura,1313,Downhill,332,1267,02/22/2026,56,101.63,101.63
+California,CA,Ventura Marathon,Ventura,1313,Downhill,332,1267,02/21/2027,56,101.63,101.63
 California,CA,Carlsbad Marathon,Carlsbad,1186,Rolling Hills,782,790,01/17/2027,53,98.24,98.24
 California,CA,Oakland Marathon,Oakland,1061,Rolling Hills,764,754,03/22/2026,56,97.99,98.14
 California,CA,Two Cities Marathon,Fresno,710,Mostly Flat,354,354,11/01/2026,56,99.32,99.32
 California,CA,Avenue of the Giants Marathon,Weott,545,Hilly,695,689,05/03/2026,49,98.41,98.41
 California,CA,Bakersfield Marathon,Bakersfield,464,Hilly,568,568,04/04/2027,60,98.67,98.67
-California,CA,Modesto Marathon,Modesto,366,Mostly Flat,177,177,03/22/2026,59,99.63,99.63
+California,CA,Modesto Marathon,Modesto,366,Mostly Flat,177,177,04/04/2027,59,99.63,99.63
 California,CA,SoCal Marathon,Huntington Beach,267,Downhill,222,583,02/27/2027,56,100.15,100.48
 California,CA,Redding Marathon,Redding,239,Downhill,754,1326,01/17/2027,45,99.35,99.35
 California,CA,Humboldt Redwoods Marathon,Weott,230,Rolling Hills,695,689,10/11/2026,51,98.54,98.54
@@ -44,7 +44,7 @@ California,CA,Santa Clarita Marathon,Santa Clarita,204,Mostly Flat,0,0,11/15/202
 California,CA,Seaside Marathon,Ventura,202,Mostly Flat,328,328,06/07/2026,61,97.99,99.34
 California,CA,Shoreline Marathon,Ventura,188,Mostly Flat,328,328,07/12/2026,66,96.95,99.34
 California,CA,Camarillo Marathon,Camarillo,107,Mostly Flat,404,404,08/02/2026,68,96.46,99.13
-Colorado,CO,Colfax Marathon,Denver,2917,Rolling Hills,693,694,05/17/2026,59,92.77,92.77
+Colorado,CO,Colfax Marathon,Denver,2917,Rolling Hills,693,694,05/16/2027,59,92.77,92.77
 Colorado,CO,Colorado Marathon,Fort Collins,1162,Downhill,206,1336,05/02/2027,53,98.77,98.77
 Colorado,CO,Aspen Valley Marathon,Basalt,222,Downhill,305,1644,07/25/2026,49,96.36,96.67
 Colorado,CO,Long View Marathon,Loveland,157,Rolling Hills,628,706,10/10/2026,53,93.72,93.72
@@ -52,10 +52,10 @@ Connecticut,CT,Hartford Marathon,Hartford,1915,Rolling Hills,754,782,10/10/2026,
 Connecticut,CT,Savin Rock Marathon,West Haven,133,Rolling Hills,0,0,04/03/2027,38,96.77,96.77
 Delaware,DE,Rehoboth Beach Marathon,Rehoboth Beach,980,Mostly Flat,261,253,12/05/2026,40,99.41,99.41
 Delaware,DE,Coastal Delaware Running Festival Marathon,Rehoboth Beach,747,Mostly Flat,272,272,04/11/2027,56,99.09,99.41
-Delaware,DE,Delaware Marathon,Wilmington,643,Rolling Hills,1025,1025,04/19/2026,58,97.18,97.49
+Delaware,DE,Delaware Marathon,Wilmington,643,Rolling Hills,1025,1025,04/18/2027,58,97.18,97.49
 Florida,FL,Walt Disney World Marathon,Orlando,13291,Flat,260,258,01/10/2027,58,99.31,99.47
 Florida,FL,Miami Marathon,Miami,3251,Mostly Flat,254,253,01/31/2027,68,97.08,99.48
-Florida,FL,Space Coast Marathon,Cocoa,940,Flat,262,259,11/22/2026,64,98.14,99.49
+Florida,FL,Space Coast Marathon,Cocoa,940,Flat,286,286,11/22/2026,64,98.14,99.49
 Florida,FL,Palm Beaches Marathon,West Palm Beach,886,Flat,88,88,12/13/2026,70,96.78,99.79
 Florida,FL,Donna Marathon,Jacksonville Beach,861,Flat,240,240,02/07/2027,56,99.36,99.51
 Florida,FL,Ft. Lauderdale A1A Marathon,Ft. Lauderdale,738,Flat,129,129,02/14/2027,67,97.34,99.75
@@ -63,7 +63,7 @@ Florida,FL,Jacksonville Marathon,Jacksonville,703,Flat,219,220,12/13/2025,53,99.
 Florida,FL,St. Petersburg Distance Classic Marathon,St. Petersburg,693,Mostly Flat,164,164,02/07/2027,64,98.03,99.63
 Florida,FL,Clearwater Marathon,Clearwater,534,Mostly Flat,621,621,01/31/2027,64,97.67,98.56
 Florida,FL,Town of Celebration Marathon,Celebration,400,Flat,217,217,01/31/2027,60,98.88,99.58
-Florida,FL,Tallahassee Marathon,Tallahassee,379,Rolling Hills,662,810,02/08/2026,53,98.85,98.85
+Florida,FL,Tallahassee Marathon,Tallahassee,379,Rolling Hills,662,810,02/07/2027,53,98.85,98.85
 Florida,FL,Florida Marathon,Melbourne,328,Mostly Flat,418,414,02/07/2027,61,98.54,99.04
 Florida,FL,Panama City Beach Marathon,Panama City,295,Flat,0,0,12/05/2026,56,99.47,99.62
 Florida,FL,Marathon of the Treasure Coast,Stuart,245,Mostly Flat,0,0,03/07/2027,66,96.18,99.15
@@ -83,10 +83,10 @@ Iowa,IA,Des Moines Marathon,Des Moines,1889,Rolling Hills,682,682,10/18/2026,52,
 Iowa,IA,Cedar Rapids Marathon,Cedar Rapids,609,Rolling Hills,775,775,06/07/2026,68,96.43,98.24
 Iowa,IA,Des Moines St. Paddys Marathon,Des Moines,201,Rolling Hills,443,443,03/14/2026,41,99.15,99.15
 Idaho,ID,Coeur d Alene Marathon,Coeur d' Alene,523,Rolling Hills,786,807,05/24/2026,59,98.17,98.17
-Idaho,ID,Famous Idaho Potato Marathon,Boise,264,Mostly Flat,297,304,05/16/2026,58,99.02,99.02
+Idaho,ID,Famous Idaho Potato Marathon,Boise,264,Mostly Flat,297,304,05/15/2027,58,99.02,99.02
 Idaho,ID,Boise Marathon,Boise,109,Mostly Flat,231,231,06/20/2026,69,99.17,99.17
 Illinois,IL,Chicago Marathon,Chicago,54382,Flat,243,242,10/11/2026,57,99.76,99.76
-Illinois,IL,Illinois Marathon,Champaign-Urbana,1099,Mostly Flat,456,483,04/25/2026,56,99.12,99.12
+Illinois,IL,Illinois Marathon,Champaign-Urbana,1099,Mostly Flat,456,483,04/24/2027,56,99.12,99.12
 Illinois,IL,Quad Cities Marathon,Moline,540,Mostly Flat,518,518,09/27/2026,61,96.14,98.80
 Illinois,IL,Chicagoland Spring Marathon,Schaumburg,534,Mostly Flat,470,470,05/03/2026,56,99.06,99.06
 Illinois,IL,Fox Valley Marathon,St. Charles,497,Mostly Flat,499,499,09/20/2026,63,97.58,98.92
@@ -95,16 +95,16 @@ Illinois,IL,Belleville Main Street Marathon,Belleville,175,Rolling Hills,631,631
 Illinois,IL,Starved Rock Country Marathon,Ottawa,125,Rolling Hills,0,0,05/09/2026,58,0.00,0.00
 Illinois,IL,Spring Chance BQ.2 Marathon,Geneva,124,Flat,372,395,04/11/2027,52,99.30,99.30
 Indiana,IN,Indianapolis Monumental Marathon,Indianapolis,6674,Mostly Flat,302,302,11/07/2026,48,99.37,99.37
-Indiana,IN,Carmel Marathon,Carmel,687,Mostly Flat,464,464,05/31/2026,47,99.00,99.00
+Indiana,IN,Carmel Marathon,Carmel,687,Mostly Flat,464,464,04/17/2027,47,99.00,99.00
 Indiana,IN,Mill Race Marathon,Columbus,211,Mostly Flat,0,0,09/26/2026,60,98.47,99.59
 Indiana,IN,Veterans Marathon,Columbia City,134,Rolling Hills,659,659,11/14/2026,42,98.66,98.66
 Indiana,IN,Back Your Badge Marathon,Plainfield,107,Rolling Hills,0,0,09/20/2026,65,0.00,0.00
 Indiana,IN,Fort Wayne Marathon,Fort Wayne,105,Mostly Flat,0,0,04/26/2026,54,0.00,0.00
 Kansas,KS,Salina Crossroads Marathon,Salina,548,Mostly Flat,499,499,11/07/2026,48,98.85,98.85
 Kansas,KS,Garmin Olathe Marathon,Olathe,543,Rolling Hills,891,891,04/25/2026,55,97.90,97.90
-Kansas,KS,Prairie Fire Marathon,Wichita,382,Mostly Flat,361,362,10/11/2026,61,98.54,99.23
+Kansas,KS,Prairie Fire Marathon,Wichita,382,Mostly Flat,408,412,10/11/2026,61,98.54,99.23
 Kansas,KS,Gobbler Grind Marathon,Overland Park,219,Rolling Hills,593,593,11/22/2026,42,98.74,98.74
-Kentucky,KY,Kentucky Derby Festival Marathon,Louisville,1502,Mostly Flat,501,508,04/25/2026,60,98.87,98.87
+Kentucky,KY,Kentucky Derby Festival Marathon,Louisville,1502,Mostly Flat,501,508,04/24/2027,60,98.87,98.87
 Kentucky,KY,Louisville Marathon,Louisville,418,Hilly,961,961,11/01/2026,38,97.66,97.66
 Kentucky,KY,Horse Capital Marathon,Lexington,159,Rolling Hills,0,0,04/11/2026,57,97.80,97.80
 Louisiana,LA,Every Womans Marathon,New Orleans,3949,Mostly Flat,0,0,02/28/2027,62,0.00,0.00
@@ -148,22 +148,22 @@ Minnesota,MN,Grandmas Marathon,Duluth,7542,Mostly Flat,557,685,06/20/2026,61,98.
 Minnesota,MN,Twin Cities Marathon,St. Paul,7002,Rolling Hills,576,495,10/04/2026,51,98.85,98.85
 Minnesota,MN,Med City Marathon,Rochester,453,Mostly Flat,513,778,05/17/2026,62,98.65,99.55
 Minnesota,MN,Mankato Marathon,Mankato,381,Mostly Flat,583,790,10/17/2026,45,99.21,99.21
-Minnesota,MN,Lake Wobegon Trail Marathon,St. Joseph,353,Mostly Flat,290,412,05/09/2026,56,99.63,99.63
+Minnesota,MN,Lake Wobegon Trail Marathon,St. Joseph,353,Mostly Flat,290,412,05/08/2027,56,99.63,99.63
 Minnesota,MN,Bemidji Blue Ox Marathon,Bemidji,228,Rolling Hills,399,399,10/10/2026,43,99.14,99.14
 Missouri,MO,Kansas City Marathon,Kansas City,1538,Hilly,1046,1046,10/17/2026,55,97.42,97.42
-Missouri,MO,Greater St. Louis Marathon,St. Louis,1409,Rolling Hills,984,967,04/11/2026,55,97.81,97.81
+Missouri,MO,Greater St. Louis Marathon,St. Louis,1409,Rolling Hills,984,967,04/03/2027,55,97.81,97.81
 Missouri,MO,Bass Pro Shops Conservation Marathon,Springfield,476,Rolling Hills,764,780,11/01/2026,50,98.43,98.43
 Missouri,MO,Heart of America Marathon,Columbia,105,Hilly,0,0,09/07/2026,70,93.44,96.56
 Mississippi,MS,Mississippi Gulf Coast Marathon,Biloxi,766,Flat,140,130,12/13/2026,53,99.54,99.69
 Mississippi,MS,Mississippi Blues Marathon,Jackson,237,Rolling Hills,1193,1193,02/20/2027,49,97.24,97.24
 Mississippi,MS,Mississippi River Marathon,Greenville,109,Mostly Flat,217,207,02/07/2026,45,99.52,99.52
 Montana,MT,Missoula Marathon,Missoula,1153,Mostly Flat,492,315,06/28/2026,66,97.26,97.26
-Montana,MT,Whitefish Marathon,Whitefish,257,Hilly,1170,1166,05/16/2026,54,96.12,96.12
+Montana,MT,Whitefish Marathon,Whitefish,257,Hilly,1170,1166,05/22/2027,54,96.12,96.12
 Montana,MT,Montana Marathon,Billings,221,Downhill,520,1351,09/20/2026,58,99.51,99.51
 North Carolina,NC,Charlotte Marathon,Charlotte,2647,Rolling Hills,1044,1046,11/14/2026,52,97.72,97.72
 North Carolina,NC,Wilmington Marathon,Wilmington,1492,Mostly Flat,419,419,02/27/2027,56,99.10,99.10
 North Carolina,NC,City of Oaks Marathon,Raleigh,979,Hilly,1104,1117,11/01/2026,55,96.95,97.43
-North Carolina,NC,Coast Guard Marathon,Elizabeth City,964,Flat,88,88,04/12/2026,48,99.83,99.83
+North Carolina,NC,Coast Guard Marathon,Elizabeth City,964,Flat,88,88,04/04/2027,48,99.83,99.83
 North Carolina,NC,Garmin Durham Marathon,Durham,880,Rolling Hills,1004,1037,05/02/2026,62,96.94,97.81
 North Carolina,NC,Run Oak Island Marathon,Oak Island,292,Flat,268,268,02/14/2027,49,99.46,99.46
 North Carolina,NC,Emerald Isle Marathon,Emerald Isle,286,Flat,271,271,10/24/2026,55,99.46,99.46
@@ -176,7 +176,7 @@ Nebraska,NE,Omaha Marathon,Omaha,357,Rolling Hills,386,386,09/27/2026,62,98.69,9
 Nebraska,NE,Nebraska State Fair Marathon,Grand Island,155,Flat,134,134,08/29/2026,73,96.70,99.71
 New Hampshire,NH,Manchester City Marathon,Manchester,572,Hilly,1040,1040,11/08/2026,41,97.45,97.45
 New Hampshire,NH,Cheap Marathon,Derry,550,Rolling Hills,493,486,04/03/2027,41,98.71,98.71
-New Hampshire,NH,Clarence DeMar Marathon,Keene,308,Downhill,645,1073,09/27/2026,53,99.11,99.43
+New Hampshire,NH,Clarence DeMar Marathon,Keene,308,Downhill,706,1135,09/27/2026,53,99.11,99.43
 New Hampshire,NH,New Hampshire Marathon,Bristol,230,Hilly,0,0,10/03/2026,54,95.06,95.52
 New Jersey,NJ,Jersey City Marathon,Jersey City,3111,Mostly Flat,383,383,04/19/2026,53,99.20,99.20
 New Jersey,NJ,Atlantic City Marathon,Atlantic City,1030,Flat,200,200,10/18/2026,54,99.46,99.61
@@ -190,7 +190,7 @@ New York,NY,Wineglass Marathon,Corning,1816,Downhill,392,594,10/04/2026,54,99.66
 New York,NY,Buffalo Marathon,Buffalo,1488,Mostly Flat,585,587,05/30/2027,62,98.25,98.74
 New York,NY,Mohawk-Hudson River Marathon,Albany,600,Downhill,471,700,10/11/2026,51,99.39,99.39
 New York,NY,Long Island Marathon,East Meadow,471,Mostly Flat,311,310,05/03/2026,53,99.36,99.36
-New York,NY,Hamptons Marathon,East Hampton,440,Mostly Flat,384,384,09/26/2026,58,99.24,99.24
+New York,NY,Hamptons Marathon,East Hampton,440,Mostly Flat,343,343,09/26/2026,58,99.24,99.24
 New York,NY,Hudson Valley Marathon at the Walkway Over the Hudson,Highland,406,Rolling Hills,432,429,05/02/2027,57,98.92,99.08
 New York,NY,Sackets Harbor Marathon,Sackets Harbor,326,Rolling Hills,570,570,09/06/2026,64,96.11,98.76
 New York,NY,Sri Chinmoy Marathon,Congers,325,Flat,218,218,08/24/2026,69,95.27,99.58
@@ -214,7 +214,7 @@ Ohio,OH,Athens Marathon,Athens,224,Mostly Flat,244,304,04/11/2027,52,99.63,99.63
 Ohio,OH,Ohio River Road Runners Club Marathon,Xenia,104,Mostly Flat,457,458,03/29/2026,42,99.02,99.02
 Oklahoma,OK,Oklahoma City Memorial Marathon,Oklahoma City,2527,Rolling Hills,758,778,04/25/2027,60,97.91,98.40
 Oklahoma,OK,Route 66 Marathon,Tulsa,818,Rolling Hills,822,839,11/22/2026,48,98.21,98.21
-Oklahoma,OK,Golden Driller Marathon,Tulsa,160,Mostly Flat,475,475,04/18/2026,65,98.80,98.80
+Oklahoma,OK,Golden Driller Marathon,Tulsa,160,Mostly Flat,475,475,04/17/2027,65,98.80,98.80
 Oregon,OR,Eugene Marathon,Eugene,4536,Mostly Flat,586,583,04/25/2027,53,98.70,98.70
 Oregon,OR,Portland Marathon,Portland,3009,Rolling Hills,873,873,10/04/2026,56,98.00,98.00
 Oregon,OR,Bend Marathon,Bend,406,Hilly,1164,1164,04/12/2026,46,94.73,94.73
@@ -226,18 +226,18 @@ Pennsylvania,PA,Philadelphia Marathon,Philadelphia,12576,Mostly Flat,651,641,11/
 Pennsylvania,PA,Pittsburgh Marathon,Pittsburgh,5024,Rolling Hills,933,939,05/02/2027,55,98.15,98.15
 Pennsylvania,PA,Erie Marathon,Erie,1103,Flat,84,84,09/13/2026,63,98.55,99.91
 Pennsylvania,PA,Steamtown Marathon,Scranton,892,Downhill,518,1471,10/11/2026,53,101.09,101.09
-Pennsylvania,PA,Jim Thorpe Marathon,Jim Thorpe,774,Downhill,75,650,04/26/2026,58,100.40,101.34
+Pennsylvania,PA,Jim Thorpe Marathon,Jim Thorpe,774,Downhill,75,650,04/25/2027,58,100.40,101.34
 Pennsylvania,PA,Harrisburg Marathon,Harrisburg,631,Mostly Flat,315,314,11/08/2026,45,99.34,99.34
 Pennsylvania,PA,St. Lukes D and L RaceFest Marathon,Allentown,388,Mostly Flat,364,558,11/15/2026,45,99.70,99.70
 Pennsylvania,PA,Gettysburg North-South Marathon,Gettysburg,136,Hilly,1323,1323,04/25/2027,55,96.94,96.94
 Pennsylvania,PA,Veterans Marathon (PA),Black Lick,101,Hilly,0,0,11/01/2026,47,99.20,99.20
 Rhode Island,RI,Newport Rhode Races Marathon,Newport,1255,Rolling Hills,891,891,04/18/2026,45,97.86,97.86
-Rhode Island,RI,Newport Marathon (RI),Newport,1057,Rolling Hills,0,0,10/11/2026,54,97.74,97.89
-Rhode Island,RI,Providence Rhode Races Marathon,Providence,568,Rolling Hills,746,746,05/03/2026,54,98.27,98.27
+Rhode Island,RI,Newport Marathon (RI),Newport,1057,Rolling Hills,842,842,10/11/2026,54,97.74,97.89
+Rhode Island,RI,Providence Rhode Races Marathon,Providence,568,Rolling Hills,746,746,05/02/2027,54,98.27,98.27
 Rhode Island,RI,Ocean State Rhode Races Marathon,Narragansett,398,Rolling Hills,1006,1006,10/25/2026,55,97.32,97.32
 South Carolina,SC,Myrtle Beach Marathon,Myrtle Beach,1674,Flat,283,280,03/06/2027,52,99.42,99.42
 South Carolina,SC,Kiawah Island Marathon,Kiawah Island,1328,Flat,129,129,12/12/2026,53,99.73,99.73
-South Carolina,SC,Spinx Runfest Marathon,Greenville,439,Rolling Hills,0,0,10/24/2026,57,98.03,98.03
+South Carolina,SC,Spinx Runfest Marathon,Greenville,439,Rolling Hills,651,691,10/24/2026,57,98.03,98.03
 South Carolina,SC,Hilton Head Island Marathon,Hilton Head Island,374,Mostly Flat,461,461,-,55,98.98,98.98
 South Dakota,SD,Sioux Falls Marathon,Sioux Falls,404,Mostly Flat,613,613,09/20/2026,61,98.17,98.66
 Tennessee,TN,Rock n Roll Nashville Marathon,Nashville,3189,Rolling Hills,1088,1163,04/24/2027,61,96.34,97.64
@@ -253,7 +253,7 @@ Texas,TX,Cowtown Marathon,Fort Worth,2134,Rolling Hills,736,734,02/28/2027,52,98
 Texas,TX,Woodlands Marathon,The Woodlands,1026,Mostly Flat,332,341,02/27/2027,57,99.34,99.34
 Texas,TX,El Paso Marathon,El Paso,657,Rolling Hills,552,552,02/28/2027,52,96.14,96.14
 Texas,TX,Run the Alamo 26.2 Marathon,San Antonio,606,Rolling Hills,585,585,03/06/2027,59,98.77,98.77
-Texas,TX,Bryan-College Station Marathon,College Station,559,Mostly Flat,678,648,12/13/2026,53,98.45,98.45
+Texas,TX,Bryan-College Station Marathon,College Station,559,Mostly Flat,717,695,12/13/2026,53,98.45,98.45
 Texas,TX,Irving Marathon,Irving,497,Rolling Hills,750,750,03/21/2027,61,98.23,98.38
 Texas,TX,Irving Frost Marathon,Irving,478,Mostly Flat,486,486,12/19/2026,49,98.99,98.99
 Texas,TX,Fort Worth Marathon,Fort Worth,472,Mostly Flat,544,552,11/08/2026,55,98.79,98.94
@@ -279,7 +279,7 @@ Virginia,VA,Charlottesville Marathon,Charlottesville,178,Hilly,0,0,04/11/2026,55
 Virginia,VA,Tidewater Striders Dismal Swamp Marathon,Chesapeake,133,Flat,134,124,12/07/2025,49,99.70,99.70
 Virginia,VA,Tidewater Strider Marathon,Chesapeake,123,Flat,134,124,04/26/2026,60,99.70,99.70
 Virginia,VA,Three Sisters Marathon,Danville,111,Rolling Hills,1141,1141,09/12/2026,74,93.20,97.33
-Vermont,VT,Vermont City Marathon,Burlington,1472,Rolling Hills,855,856,05/24/2026,60,97.75,98.06
+Vermont,VT,Vermont City Marathon,Burlington,1472,Rolling Hills,855,856,05/30/2027,60,97.75,98.06
 Vermont,VT,Champlain Islands Marathon,South Hero,136,Rolling Hills,946,946,10/18/2026,46,97.73,97.73
 Washington,WA,Seattle Marathon,Seattle,2470,Hilly,818,908,11/29/2026,41,98.22,98.22
 Washington,WA,Tacoma City Marathon,Tacoma,422,Hilly,864,1126,05/02/2027,51,98.49,98.49
@@ -296,7 +296,7 @@ Wisconsin,WI,Madison Marathon,Madison,1911,Rolling Hills,851,833,11/15/2026,40,9
 Wisconsin,WI,Lakefront Marathon,Milwaukee,1592,Rolling Hills,752,759,10/04/2026,57,98.32,98.32
 Wisconsin,WI,Milwaukee Marathon,Milwaukee,1092,Rolling Hills,500,452,04/10/2027,44,98.76,98.76
 Wisconsin,WI,Eau Claire Marathon,Eau Claire,866,Rolling Hills,590,588,05/02/2027,56,98.71,98.71
-Wisconsin,WI,Fox Cities Marathon,Appleton,543,Rolling Hills,420,455,09/20/2026,60,98.47,99.16
+Wisconsin,WI,Fox Cities Marathon,Appleton,543,Rolling Hills,439,480,09/20/2026,60,98.47,99.16
 Wisconsin,WI,Epic Marathon,Green Bay,379,Rolling Hills,490,490,05/17/2026,57,98.82,98.98
 Wisconsin,WI,Brew City Marathon,Milwaukee,339,Mostly Flat,337,337,04/18/2026,50,99.26,99.26
 Wisconsin,WI,Wisconsin Marathon,Kenosha,292,Mostly Flat,432,432,04/25/2026,50,99.14,99.14
