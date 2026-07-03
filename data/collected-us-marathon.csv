@@ -60,7 +60,7 @@ Florida,FL,Palm Beaches Marathon,West Palm Beach,886,Flat,88,88,12/13/2026,70,96
 Florida,FL,Donna Marathon,Jacksonville Beach,861,Flat,240,240,02/07/2027,56,99.36,99.51
 Florida,FL,Ft. Lauderdale A1A Marathon,Ft. Lauderdale,738,Flat,129,129,02/14/2027,67,97.34,99.75
 Florida,FL,Jacksonville Marathon,Jacksonville,703,Flat,219,220,12/12/2026,53,99.54,99.54
-Florida,FL,St. Petersburg Distance Classic Marathon,St. Petersburg,693,Mostly Flat,164,164,02/07/2027,64,98.03,99.63
+Florida,FL,St. Petersburg Distance Classic Marathon,St. Petersburg,694,Mostly Flat,251,251,02/07/2027,64,98.03,99.63
 Florida,FL,Clearwater Marathon,Clearwater,534,Mostly Flat,621,621,01/31/2027,64,97.67,98.56
 Florida,FL,Town of Celebration Marathon,Celebration,400,Flat,217,217,01/31/2027,60,98.88,99.58
 Florida,FL,Tallahassee Marathon,Tallahassee,379,Rolling Hills,662,810,02/07/2027,53,98.85,98.85
@@ -149,7 +149,7 @@ Minnesota,MN,Twin Cities Marathon,St. Paul,7002,Rolling Hills,576,495,10/04/2026
 Minnesota,MN,Med City Marathon,Rochester,453,Mostly Flat,513,778,05/17/2026,62,98.65,99.55
 Minnesota,MN,Mankato Marathon,Mankato,381,Mostly Flat,583,790,10/17/2026,45,99.21,99.21
 Minnesota,MN,Lake Wobegon Trail Marathon,St. Joseph,353,Mostly Flat,290,412,05/08/2027,56,99.63,99.63
-Minnesota,MN,Bemidji Blue Ox Marathon,Bemidji,228,Rolling Hills,399,399,10/10/2026,43,99.14,99.14
+Minnesota,MN,Bemidji Blue Ox Marathon,Bemidji,228,Rolling Hills,421,421,10/10/2026,43,99.14,99.14
 Missouri,MO,Kansas City Marathon,Kansas City,1538,Hilly,1046,1046,10/17/2026,55,97.42,97.42
 Missouri,MO,Greater St. Louis Marathon,St. Louis,1409,Rolling Hills,984,967,04/03/2027,55,97.81,97.81
 Missouri,MO,Bass Pro Shops Conservation Marathon,Springfield,476,Rolling Hills,764,780,11/01/2026,50,98.43,98.43
@@ -209,7 +209,6 @@ Ohio,OH,United States Air Force Marathon,Dayton,1246,Mostly Flat,455,458,09/19/2
 Ohio,OH,Glass City Marathon,Toledo,1223,Mostly Flat,412,425,04/25/2027,53,99.09,99.09
 Ohio,OH,Akron Marathon,Akron,818,Rolling Hills,989,1005,09/26/2026,60,97.04,97.71
 Ohio,OH,Garmin Toledo Marathon,Toledo,363,Mostly Flat,340,340,09/20/2026,66,97.94,99.28
-Ohio,OH,Haunted Forest Marathon,Canal Fulton,249,Mostly Flat,266,276,10/25/2026,48,99.51,99.51
 Ohio,OH,Athens Marathon,Athens,224,Mostly Flat,244,304,04/11/2027,52,99.63,99.63
 Ohio,OH,Ohio River Road Runners Club Marathon,Xenia,104,Mostly Flat,457,458,03/29/2026,42,99.02,99.02
 Oklahoma,OK,Oklahoma City Memorial Marathon,Oklahoma City,2527,Rolling Hills,758,778,04/25/2027,60,97.91,98.40
